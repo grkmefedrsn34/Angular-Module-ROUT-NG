@@ -11,7 +11,7 @@ import { DividerComponent } from './divider/divider.component';
   imports: [
     CommonModule
   ],
-  exports:[
+  exports :[
     DividerComponent
   ]
 })

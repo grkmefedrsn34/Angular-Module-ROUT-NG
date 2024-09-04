@@ -102,8 +102,5 @@
       }
     }
   },
-  "defaultProject": "modcom",
-  "cli": {
-    "analytics": "2700eedd-948c-4873-b722-41518f72a189"
-  }
+  "defaultProject": "modcom"
 }
